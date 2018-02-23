@@ -28,6 +28,7 @@
     "graph": "tsc && madge --image graph.svg out/index.js --warning"
   },
   "dependencies": {
+    "awesome-typescript-loader": "3.4.1",
     "react": "16.2.0",
     "react-dom": "16.2.0",
     "react-redux": "5.0.6",
